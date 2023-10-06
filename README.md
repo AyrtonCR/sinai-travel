@@ -1,9 +1,6 @@
 # sinai-travel
 
-### Dahab Adventures
+#### Dahab Adventures - A personal project for a tourism agency in Dahab, Egypt.
 
-##### This site will be built with CMS and will feature responsive webpages including ...
+https://dahab-adventures.unicornplatform.page/
 
-
-- A landing page
-- Specific Trip Pages
